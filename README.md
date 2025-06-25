@@ -1,7 +1,7 @@
 # Hello 👋, I'm Gurunand!
 
-![Coding](https://lottie.host/0d30b558-bb98-4262-a495-b45a0b1bfe64/7Xiln8IBvM.lottie)
-
+![Coding](https://lottie.host/embed/0d30b558-bb98-4262-a495-b45a0b1bfe64/7Xiln8IBvM.lottie)
+https://lottie.host/embed/0d30b558-bb98-4262-a495-b45a0b1bfe64/7Xiln8IBvM.lottie
 🌱 I’m currently learning **Next.js**  
 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/gurunandmourya )  
