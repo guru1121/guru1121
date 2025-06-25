@@ -1,6 +1,6 @@
 # Hello 👋, I'm Gurunand!
 
-![Coding](https://your-image-link.com/coding-illustration.gif)
+![Coding]([https://your-image-link.com/coding-illustration.gif](https://app.lottiefiles.com/share/dce1db28-85f4-4de1-a65a-a9bd2bfa9a6e))
 
 🌱 I’m currently learning **Next.js**  
 📫 How to reach me:  
