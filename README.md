@@ -14,3 +14,4 @@
 ![Express](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
