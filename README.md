@@ -1,6 +1,6 @@
 # Hello 👋, I'm Gurunand!
 
-![Coding](https://lottie.host/embed/0d30b558-bb98-4262-a495-b45a0b1bfe64/7Xiln8IBvM.lottie)
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 🌱 I’m currently learning **Next.js**  
 📫 How to reach me:  
