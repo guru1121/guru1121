@@ -1,6 +1,6 @@
 # Hello 👋, I'm Gurunand!
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="Coder GIF" width="500" height="400">
 
 🌱 I’m currently learning **Next.js**  
 📫 How to reach me:  
