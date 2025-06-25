@@ -1,6 +1,6 @@
 # Hello 👋, I'm Gurunand!
 
-![Coding]([[https://your-image-link.com/coding-illustration.gif](https://app.lottiefiles.com/share/dce1db28-85f4-4de1-a65a-a9bd2bfa9a6e)](https://lottie.host/0d30b558-bb98-4262-a495-b45a0b1bfe64/7Xiln8IBvM.lottie))
+![Coding](https://lottie.host/0d30b558-bb98-4262-a495-b45a0b1bfe64/7Xiln8IBvM.lottie)
 
 🌱 I’m currently learning **Next.js**  
 📫 How to reach me:  
@@ -14,4 +14,3 @@
 ![Express](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
