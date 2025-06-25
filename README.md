@@ -1,7 +1,6 @@
 # Hello 👋, I'm Gurunand!
 
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="Coder GIF" width="500" height="400">
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 🌱 I’m currently learning **Next.js**  
 📫 How to reach me:  
