@@ -1,6 +1,6 @@
 # Hello 👋, I'm Gurunand!
 
-![Coding]([https://your-image-link.com/coding-illustration.gif](https://app.lottiefiles.com/share/dce1db28-85f4-4de1-a65a-a9bd2bfa9a6e))
+![Coding]([[https://your-image-link.com/coding-illustration.gif](https://app.lottiefiles.com/share/dce1db28-85f4-4de1-a65a-a9bd2bfa9a6e)](https://lottie.host/0d30b558-bb98-4262-a495-b45a0b1bfe64/7Xiln8IBvM.lottie))
 
 🌱 I’m currently learning **Next.js**  
 📫 How to reach me:  
